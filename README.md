@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timothybaraka&show_icons=true&locale=en" alt="timothybaraka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timothybaraka&" alt="timothybaraka" /></p>
+
+//https://rahuldkjain.github.io/gh-profile-readme-generator/
